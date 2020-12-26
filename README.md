@@ -6,11 +6,11 @@
  🍙 Project Highlights
 </h2>
 <p>
-- <b><a href="https://github.com/vuhaiminh/wushare" target="_blank">IoT Devices </a> Make your morning routine smoother with smart coffee machine</b></br>
--  <b><a href="https://github.com/wustlcse237sp20/project-coronavirusproject" target="_blank">CoronaVirus Tracker </a> Track Corona Virus status based on location</b></br>
--  <b><a href="https://github.com/vuhaiminh/Accio" target="_blank">Accio </a>- The Location-based Interest Groups App</b></br>
--  <b><a href="https://github.com/vuhaiminh/BearFoundWeb" target="_blank">BearFound </a>- Lost and Found app for WashU students</b></br>
--  <b><a href="https://github.com/vuhaiminh/wushare" target="_blank">WuShare </a>- Carpooling web app for WashU students</b></br>
+- ☕ <b><a href="https://github.com/vuhaiminh/IoT-Smart-Coffee-Machine" target="_blank">IoT Devices </a> Make your morning routine smoother with smart coffee machine</b></br>
+- 😷 <b><a href="https://github.com/wustlcse237sp20/project-coronavirusproject" target="_blank">CoronaVirus Tracker </a> Track Corona Virus status based on location</b></br>
+- ⚽ <b><a href="https://github.com/vuhaiminh/Accio" target="_blank">Accio </a>- The Location-based Interest Groups App</b></br>
+- 🔍<b><a href="https://github.com/vuhaiminh/BearFoundWeb" target="_blank">BearFound </a>- Lost and Found app for WashU students</b></br>
+- 🚀 <b><a href="https://github.com/vuhaiminh/wushare" target="_blank">WuShare </a>- Carpooling web app for WashU students</b></br>
 </p>
 
 
