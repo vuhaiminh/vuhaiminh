@@ -1,5 +1,5 @@
 <h1 align="center">             
-  Hi there!<img src="https://media.giphy.com/media/J27Nctm05jdSxZNDBT/giphy.gif" width="30px">
+  Hi there!<img src="https://www.smileysapp.com/gif-emoji/waving-hi.gif" width="30px">
 </h1>
 
 
