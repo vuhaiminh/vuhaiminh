@@ -18,7 +18,7 @@
 </h2>
 
 <p>
-  - 🍊 <b><a href="https://github.com/vuhaiminh/eHacks_Kumquat" target="_blank">Kumquat - eHacks </a></b></br>
+  - 🍊 <b><a href="https://github.com/vuhaiminh/eHacks_Kumquat" target="_blank">Kumquat - eHacks </a></b> || <b> Best Community Impact! </b></br> 
 </p>
 
 
