@@ -3,7 +3,7 @@
 </h1>
 
 <h2>
-  Project Highlights
+ 🍙 Project Highlights
 </h2>
 <!--
 **vuhaiminh/vuhaiminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
