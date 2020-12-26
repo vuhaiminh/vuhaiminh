@@ -3,7 +3,7 @@
 </h1>
 
 <h2>
- 🍙 Project Highlights
+ 🍙 + me == Projects
 </h2>
 <p style="margin-left: 10">
 - ☕  <b><a href="https://github.com/vuhaiminh/IoT-Smart-Coffee-Machine" target="_blank">IoT Devices </a> Make your morning routine smoother with smart coffee machine</b></br>
